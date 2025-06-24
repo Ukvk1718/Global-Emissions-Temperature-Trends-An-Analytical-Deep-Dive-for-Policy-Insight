@@ -28,7 +28,7 @@ With the increasing global shift toward ESG compliance and climate responsibilit
 Collected from credible sources including OWID, NOAA, UNEP, and others:
 - Annual CO₂, GHG, CH₄, and N₂O emissions by country
 - Temperature anomaly datasets (global & hemispheric)
-- Country-level GDP, population, HDI
+- Country-level GDP and population
 - Historical global environmental policies (1750–2025)
 
 ---
