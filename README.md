@@ -1,4 +1,4 @@
-# 🌍 Global Carbon Emissions & Temperature Trends  
+# 🌍 Global Emissions & Temperature Trends  
 ### *An Analytical Deep Dive for Policy Insight*
 
 ---
